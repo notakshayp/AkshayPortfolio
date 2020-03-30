@@ -1,9 +1,35 @@
 body{
     background-color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;   
+    font-family: Arial, Helvetica, sans-serif;  
 }
-.TextToRight{
-    text-align: left;
+
+.parallax {
+    
+    background-image: url(images/Akshay/akshayBW.jpg);
+   
+    
+    min-height: 500px;
+    min min-width: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
+.bottomright {
+    text-align: right;
+  }
+
+.myName{
+    font-size: 6vw;
+    text-align: right;
+    color: beige;
+}
+.myTag{
+    font-size: 3vw;
+    text-align: right;
+    color:beige;
 }
 
 
