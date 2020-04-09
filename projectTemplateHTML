@@ -1,0 +1,25 @@
+<!--project 2-->
+            
+            <div class="project">
+               <div class="projectName">
+                <h3>Project wirh a long name in this feild</h3>
+               </div>
+               <div class="projectDesc">
+                <div class="abstract">
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis libero numquam quis veritatis impedit velit consequuntur et. Pariatur deserunt ut, iure aperiam repellat officiis voluptatem, unde cumque eius quia ipsa. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas enim iure porro omnis numquam tenetur labore dolorem quidem aperiam! Eligendi quia minus soluta iste sapiente itaque et harum necessitatibus omnis.
+                </p>
+                </div>
+                <br>
+                <div class="codeNdemo">
+                    <a href="https://github.com/notakshayp">
+                        <i class="fa fa-github" style="font-size:3vw;color:black; margin: auto; width: fit-content;"></i>
+                </a>
+                </div>
+                <div class="techstack">
+                    <i><p>html, css, js, python </p></i>
+                </div>
+
+               </div>    
+            </div>
+            <!-- /project 2--->

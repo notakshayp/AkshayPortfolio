@@ -45,3 +45,45 @@ text-align: left;
     margin: auto;
 }
 
+.projects{
+font-size: 2vw;
+
+padding: 5% 10% 5% 10%;
+}
+
+.project{
+  
+    background-color:white;
+    color: black;
+    padding: 3%;
+    width: fit-content;`
+}
+.projectName{
+    margin-right: auto;
+background-color: black;
+width: auto;
+color:white;
+font-size: 3vw;
+text-align: center;}
+
+.projectDesc{
+   padding: 2%;
+}
+
+.abstract{
+
+}
+
+.techstack{
+text-align: right;
+font-weight: lighter;
+}
+
+.codeNdemo{
+text-align: right;
+display: flex;
+}
+
+.codeNdemo a{
+    margin:auto;
+}
