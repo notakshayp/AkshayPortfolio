@@ -63,8 +63,12 @@ padding: 5% 10% 5% 10%;
 background-color: black;
 width: auto;
 color:white;
-font-size: 3vw;
-text-align: center;}
+font-size: 2vw;
+text-align: center;
+border: none;
+border-radius: 1vw;
+padding: 1vw;
+}
 
 .projectDesc{
    padding: 2%;
@@ -80,10 +84,32 @@ font-weight: lighter;
 }
 
 .codeNdemo{
-text-align: right;
+text-align: center;
 display: flex;
 }
 
 .codeNdemo a{
-    margin:auto;
+
+        background-color:black;
+        border: none;
+        color: white;
+        padding: 1vw 1vw 1vw 1vw;
+        text-align: center;
+        margin :1vw 1vw;
+        width: 100%;
+        border: none;
+        border-radius: 1vw;
+}
+
+
+.codeNdemo a:hover{
+    background-color: rgb(78, 81, 82);
+}
+
+.fixedGoTo{
+    position:fixed ;
+    bottom:0vw;
+    right:1vw;
+    color: aqua;
+
 }
